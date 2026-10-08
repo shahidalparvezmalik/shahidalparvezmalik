@@ -30,10 +30,30 @@ A professional ITSM analytics proof-of-concept using a synthetic enterprise data
 - Python data-generation workflow
 - Management-focused operational insights
 
-### 🚧 Coming Next
+### 🤖 [AI-Assisted IT Service Desk](https://github.com/shahidalparvezmalik/it-service-desk-automation)
 
-**IT Service Desk Automation**  
-Automating ticket classification, prioritization, routing, and suggested resolution workflows.
+A governed AI-assisted Service Desk proof-of-concept focused on practical ITSM automation.
+
+**Highlights:**
+- Ticket classification and enrichment
+- Priority and SLA recommendations
+- Knowledge retrieval and suggested resolution
+- Human approval and risk controls
+- Safe automation rules and auditability
+- Synthetic ITSM ticket data
+- Python implementation with automated testing
+
+## Latest Thought Leadership
+
+### [AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-it-service-desk-from-ticket-triage-governed-automation-shahid-al-parvez-malik/)
+
+Exploring how AI can support ticket triage, recommendation and automation while keeping governance, accountability and appropriate human oversight in control.
+
+### [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/)
+
+Exploring how ITSM data, analytics and operational KPIs can move beyond reporting toward better service-management decisions.
+
+## Coming Next
 
 **Infrastructure Health Check**  
 Practical Windows, server, and network health diagnostics using automation.
