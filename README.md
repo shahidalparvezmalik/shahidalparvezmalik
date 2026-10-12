@@ -43,6 +43,18 @@ A governed AI-assisted Service Desk proof-of-concept focused on practical ITSM a
 - Synthetic ITSM ticket data
 - Python implementation with automated testing
 
+### 🖥️ [Infrastructure Health Check & IT Operations Diagnostics](https://github.com/shahidalparvezmalik/infrastructure-health-check)
+
+A read-only infrastructure diagnostics proof-of-concept connecting technical health signals with operational risk prioritization and management reporting.
+
+**Highlights:**
+- System, network and DNS diagnostics
+- Windows service health checks
+- Health scoring and risk levels
+- Management-oriented JSON reporting
+- Reproducible sample data
+- Unit tests and GitHub Actions validation
+
 ## Latest Thought Leadership
 
 ### [AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-it-service-desk-from-ticket-triage-governed-automation-shahid-al-parvez-malik/)
@@ -54,9 +66,6 @@ Exploring how AI can support ticket triage, recommendation and automation while 
 Exploring how ITSM data, analytics and operational KPIs can move beyond reporting toward better service-management decisions.
 
 ## Coming Next
-
-**Infrastructure Health Check**  
-Practical Windows, server, and network health diagnostics using automation.
 
 **IT Asset Lifecycle Management**  
 Asset lifecycle, warranty, replacement planning, and management analytics.
