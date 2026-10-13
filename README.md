@@ -57,6 +57,10 @@ A read-only infrastructure diagnostics proof-of-concept connecting technical hea
 
 ## Latest Thought Leadership
 
+### [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/)
+
+Exploring how infrastructure health checks can turn technical signals into operational risk, service impact and management action.
+
 ### [AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-it-service-desk-from-ticket-triage-governed-automation-shahid-al-parvez-malik/)
 
 Exploring how AI can support ticket triage, recommendation and automation while keeping governance, accountability and appropriate human oversight in control.
