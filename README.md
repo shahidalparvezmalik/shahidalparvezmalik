@@ -55,6 +55,21 @@ A read-only infrastructure diagnostics proof-of-concept connecting technical hea
 - Reproducible sample data
 - Unit tests and GitHub Actions validation
 
+### 🧠 [AgenticOps — Governed AI for IT Operations](https://github.com/shahidalparvezmalik/agentic-it-operations)
+
+A governed AgenticOps proof-of-concept showing how infrastructure and ITSM-style signals can move from detection and diagnosis to risk assessment, policy-controlled recommendations, human approval, safe action simulation, and auditability.
+
+**Highlights:**
+- Event correlation and deterministic diagnosis
+- Operational risk scoring
+- Policy-controlled AI recommendations
+- Human-approval gates
+- Safe remediation simulation
+- Audit logging and management reporting
+- Executive operations dashboard
+- Governance architecture
+- Automated testing and GitHub Actions validation
+
 ## Latest Thought Leadership
 
 ### From AIOps to AgenticOps: Turning IT Signals into Governed Action
