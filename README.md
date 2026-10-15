@@ -57,6 +57,10 @@ A read-only infrastructure diagnostics proof-of-concept connecting technical hea
 
 ## Latest Thought Leadership
 
+### [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-it-signals-governed-action-shahid-al-parvez-malik/)
+
+Exploring how IT Operations can progress from AI-assisted insight toward governed action through risk-based autonomy, policy controls, human authorization, controlled execution, and auditability.
+
 ### [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/)
 
 Exploring how infrastructure health checks can turn technical signals into operational risk, service impact and management action.
@@ -81,7 +85,7 @@ Exploring how AI can support incident analysis, service-desk workflows, and oper
 
 I am building a portfolio around:
 
-**ITSM Data → Analytics → Automation → AI Assistance → Better Operational Decisions**
+**ITSM Data → Analytics → Infrastructure Health → AI Assistance → AgenticOps → Governed Automation → Better Operational Decisions**
 
 The objective is not automation for its own sake. The objective is to improve service reliability, operational visibility, decision quality, and business outcomes.
 
