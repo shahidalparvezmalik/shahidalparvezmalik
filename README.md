@@ -72,23 +72,37 @@ A governed AgenticOps proof-of-concept showing how infrastructure and ITSM-style
 
 ## Latest Thought Leadership
 
-### From AIOps to AgenticOps: Turning IT Signals into Governed Action
-
-[View my LinkedIn profile](https://www.linkedin.com/in/shahidalparvezmalik/) for the published article.
+### Project #4 — [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://github.com/shahidalparvezmalik/agentic-it-operations)
 
 Exploring how IT Operations can progress from AI-assisted insight toward governed action through risk-based autonomy, policy controls, human authorization, controlled execution, and auditability.
 
-### [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/)
+**Project:** [AgenticOps — Governed AI for IT Operations](https://github.com/shahidalparvezmalik/agentic-it-operations)
+
+**Highlights:** Event correlation, deterministic diagnosis, operational risk scoring, policy-controlled AI recommendations, human-approval gates, safe remediation simulation, audit logging, executive reporting, governance architecture, and automated testing.
+
+### Project #3 — [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/)
 
 Exploring how infrastructure health checks can turn technical signals into operational risk, service impact and management action.
 
-### [AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-it-service-desk-from-ticket-triage-governed-automation-shahid-al-parvez-malik/)
+**Project:** [Infrastructure Health Check & IT Operations Diagnostics](https://github.com/shahidalparvezmalik/infrastructure-health-check)
+
+**Highlights:** System, network and DNS diagnostics, Windows service health checks, health scoring, risk levels, management-oriented reporting, reproducible sample data, unit tests, and GitHub Actions validation.
+
+### Project #2 — [AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-it-service-desk-from-ticket-triage-governed-automation-shahid-al-parvez-malik/)
 
 Exploring how AI can support ticket triage, recommendation and automation while keeping governance, accountability and appropriate human oversight in control.
 
-### [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/)
+**Project:** [AI-Assisted IT Service Desk](https://github.com/shahidalparvezmalik/it-service-desk-automation)
+
+**Highlights:** Ticket classification and enrichment, priority and SLA recommendations, knowledge retrieval, suggested resolution, human approval, risk controls, safe automation rules, auditability, synthetic ITSM data, and automated testing.
+
+### Project #1 — [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/)
 
 Exploring how ITSM data, analytics and operational KPIs can move beyond reporting toward better service-management decisions.
+
+**Project:** [IT Operations Dashboard](https://github.com/shahidalparvezmalik/it-operations-dashboard)
+
+**Highlights:** 1,200 synthetic ITSM incidents, SLA compliance, MTTR, FCR and reopen-rate analysis, executive dashboard, Power BI implementation guidance, Python data generation, and management-focused operational insights.
 
 ## Coming Next
 
