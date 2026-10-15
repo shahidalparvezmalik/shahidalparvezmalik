@@ -57,7 +57,9 @@ A read-only infrastructure diagnostics proof-of-concept connecting technical hea
 
 ## Latest Thought Leadership
 
-### [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-it-signals-governed-action-shahid-al-parvez-malik/)
+### From AIOps to AgenticOps: Turning IT Signals into Governed Action
+
+[View my LinkedIn profile](https://www.linkedin.com/in/shahidalparvezmalik/) for the published article.
 
 Exploring how IT Operations can progress from AI-assisted insight toward governed action through risk-based autonomy, policy controls, human authorization, controlled execution, and auditability.
 
