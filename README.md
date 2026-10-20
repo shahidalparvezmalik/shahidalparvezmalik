@@ -104,10 +104,24 @@ Exploring how ITSM data, analytics and operational KPIs can move beyond reportin
 
 **Highlights:** 1,200 synthetic ITSM incidents, SLA compliance, MTTR, FCR and reopen-rate analysis, executive dashboard, Power BI implementation guidance, Python data generation, and management-focused operational insights.
 
-## Coming Next
+## Project #5 — IT Asset Lifecycle Management
 
-**IT Asset Lifecycle Management**  
-Asset lifecycle, warranty, replacement planning, and management analytics.
+### [IT Asset Lifecycle Management](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
+
+A Python-based, read-only proof of concept for asset inventory assessment, lifecycle and warranty tracking, explainable risk scoring, data-quality checks, and executive reporting using synthetic data.
+
+**Highlights:**
+- Asset inventory and lifecycle validation
+- Warranty exposure and refresh-planning indicators
+- Explainable, rules-based risk scoring
+- Data-quality exception reporting
+- CSV outputs and executive summary JSON
+- Unit tests and GitHub Actions workflow
+- Governance principles and human-reviewed recommendations
+
+**Project banner:** [View the repository](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
+
+## Coming Next
 
 **AI-Assisted IT Operations**  
 Exploring how AI can support incident analysis, service-desk workflows, and operational decision-making with appropriate human oversight.
