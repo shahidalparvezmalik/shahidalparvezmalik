@@ -70,6 +70,19 @@ A governed AgenticOps proof-of-concept showing how infrastructure and ITSM-style
 - Governance architecture
 - Automated testing and GitHub Actions validation
 
+### 💻 [IT Asset Lifecycle Management](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
+
+A Python-based, read-only ITAM proof of concept for asset inventory assessment, lifecycle and warranty tracking, explainable risk scoring, data-quality checks, and executive reporting using synthetic data.
+
+**Highlights:**
+- Asset inventory and lifecycle validation
+- Warranty exposure and refresh-planning indicators
+- Explainable, rules-based risk scoring
+- Data-quality exception reporting
+- CSV outputs and executive summary JSON
+- Unit tests and GitHub Actions workflow
+- Governance principles and human-reviewed recommendations
+
 ## Latest Thought Leadership
 
 ### Project #4 — [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://github.com/shahidalparvezmalik/agentic-it-operations)
