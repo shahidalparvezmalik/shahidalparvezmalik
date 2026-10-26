@@ -83,6 +83,14 @@ A Python-based, read-only ITAM proof of concept for asset inventory assessment, 
 - Unit tests and GitHub Actions workflow
 - Governance principles and human-reviewed recommendations
 
+**Project banner:** [View the repository](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
+
+### 🤝 [AI-Assisted IT Operations](https://github.com/shahidalparvezmalik/ai-assisted-it-operations)
+
+Project in progress: a portfolio proof of concept exploring AI support for incident analysis, Service Desk workflows and operational decisions with appropriate human oversight. It is not a production deployment.
+
+**Current scope:** incident analysis support, service-desk workflow assistance, evidence-aware recommendations, human review and accountable decisions. Capabilities will be described as implemented only after they are built and verified.
+
 ## Latest Thought Leadership
 
 ### Project #1 — [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/)
@@ -134,18 +142,26 @@ A Python-based, read-only proof of concept for asset inventory assessment, lifec
 
 **Project banner:** [View the repository](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
 
+## Project #6 — AI-Assisted IT Operations
+
+### [AI-Assisted IT Operations: Keeping Human Judgment in the Loop](https://github.com/shahidalparvezmalik/ai-assisted-it-operations/blob/main/docs/LINKEDIN_ARTICLE.md)
+
+**Draft saved in GitHub; not yet published on LinkedIn.** The article explores incident analysis, Service Desk workflows and operational decision support while keeping evidence visible and people accountable.
+
+**Project:** [AI-Assisted IT Operations](https://github.com/shahidalparvezmalik/ai-assisted-it-operations)
+
 ## Coming Next
 
-**AI-Assisted IT Operations**  
-Exploring how AI can support incident analysis, service-desk workflows, and operational decision-making with appropriate human oversight.
+**IT Procurement & Vendor Performance Management (proposed)**  
+A possible proof-of-concept using synthetic data to explore procurement lifecycle visibility, supplier performance and SLA scorecards, contract renewal risk, and management reporting. This project has not been created yet.
 
 ## Current Direction
 
 I am building a portfolio around:
 
-**ITSM Data → Analytics → Infrastructure Health → AI Assistance → AgenticOps → Governed Automation → Better Operational Decisions**
+**ITSM Data → Analytics → Infrastructure Health → AI-Assisted Operations → AgenticOps → IT Asset Lifecycle → Procurement & Vendor Management**
 
-The objective is not automation for its own sake. The objective is to improve service reliability, operational visibility, decision quality, and business outcomes.
+The objective is to improve service reliability, operational visibility, decision quality, and business outcomes through practical, governed technology.
 
 ## Connect With Me
 
