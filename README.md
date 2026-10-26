@@ -1,178 +1,57 @@
 # Shahid Al Parvez Malik
 
-## Senior IT Infrastructure & Service Delivery Manager
+**Senior IT Infrastructure & Service Delivery Manager**  
+20+ years in professional IT across enterprise infrastructure, IT Operations, ITSM, service delivery, systems administration, networking, technical support, IT procurement, and vendor management.
 
-**IT Operations • IT Infrastructure • ITSM • Service Delivery • Automation • AI • IT Procurement & Vendor Management**
+[LinkedIn](https://www.linkedin.com/in/shahidalparvezmalik/) · [Professional portfolio](https://shahidalparvezmalik.com/)
 
-I am an IT leader focused on reliable infrastructure, effective service delivery, practical automation, and the responsible application of AI in IT Operations.
+I lead and support dependable IT services, infrastructure operations, and practical service improvement. This profile brings together portfolio proof-of-concepts focused on operational visibility, sound governance, and accountable technology decisions.
 
-My GitHub profile is where I document practical proof-of-work projects, experiments, dashboards, automation approaches, and ideas that connect technology with operational outcomes.
+## Areas of focus
 
-## What I Focus On
+- **Infrastructure & operations:** enterprise systems, networking, administration, technical support, service continuity
+- **ITSM & service delivery:** incident and request management, service-desk operations, SLA/KPI reporting, continuous improvement
+- **Procurement & suppliers:** technical requirements, lifecycle planning, supplier coordination, vendor performance
+- **Automation & analytics:** Python, PowerShell, Power BI, workflow automation, responsible AI exploration with human oversight
 
-- **IT Operations & Infrastructure** — enterprise infrastructure, service continuity, production support, troubleshooting, and operational improvement
-- **IT Service Management** — ITSM, incident management, request management, problem management, SLA/KPI management, and service delivery
-- **Automation & Data** — Python, PowerShell, operational analytics, dashboards, and workflow automation
-- **AI for IT Operations** — AI-assisted service management, automation governance, operational intelligence, and human-in-the-loop decision support
-- **IT Procurement & Vendor Management** — technical requirements, supplier coordination, lifecycle planning, and technology management
+## Selected projects
 
-## Featured Projects
+Projects are listed from newest to foundational. Each is a portfolio proof of concept, not a claim of production deployment.
 
-### 📊 [IT Operations Dashboard](https://github.com/shahidalparvezmalik/it-operations-dashboard)
+### #6 · [AI-Assisted IT Operations](https://github.com/shahidalparvezmalik/ai-assisted-it-operations)
+A review-only incident-triage demo using seven synthetic cases. Its transparent rules suggest priorities, flag missing context, and generate reports; it is **not an AI model**, connects to no live systems, and executes no actions.
 
-A professional ITSM analytics proof-of-concept using a synthetic enterprise dataset.
+### #5 · [IT Asset Lifecycle Management](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
+A read-only, synthetic-data ITAM demo for lifecycle validation, warranty exposure, refresh planning, data-quality checks, and explainable risk scoring.
 
-**Highlights:**
-- 1,200 synthetic ITSM incidents
-- SLA compliance, MTTR, FCR, and reopen-rate analysis
-- Executive dashboard
-- Power BI implementation guide
-- Python data-generation workflow
-- Management-focused operational insights
+### #4 · [AgenticOps — Governed AI for IT Operations](https://github.com/shahidalparvezmalik/agentic-it-operations)
+A governance-focused prototype connecting event correlation and deterministic diagnosis to risk assessment, policy checks, human approval, simulated remediation, and audit reporting.
 
-### 🤖 [AI-Assisted IT Service Desk](https://github.com/shahidalparvezmalik/it-service-desk-automation)
+### #3 · [Infrastructure Health Check & IT Operations Diagnostics](https://github.com/shahidalparvezmalik/infrastructure-health-check)
+Read-only system, network, DNS, service, and availability checks translated into operational risk findings and management reports.
 
-A governed AI-assisted Service Desk proof-of-concept focused on practical ITSM automation.
+### #2 · [AI-Assisted IT Service Desk](https://github.com/shahidalparvezmalik/it-service-desk-automation)
+A synthetic-data service-desk prototype exploring ticket classification, priority/SLA recommendations, knowledge suggestions, and approval controls. The baseline uses transparent rules.
 
-**Highlights:**
-- Ticket classification and enrichment
-- Priority and SLA recommendations
-- Knowledge retrieval and suggested resolution
-- Human approval and risk controls
-- Safe automation rules and auditability
-- Synthetic ITSM ticket data
-- Python implementation with automated testing
-
-### 🖥️ [Infrastructure Health Check & IT Operations Diagnostics](https://github.com/shahidalparvezmalik/infrastructure-health-check)
-
-A read-only infrastructure diagnostics proof-of-concept connecting technical health signals with operational risk prioritization and management reporting.
-
-**Highlights:**
-- System, network and DNS diagnostics
-- Windows service health checks
-- Health scoring and risk levels
-- Management-oriented JSON reporting
-- Reproducible sample data
-- Unit tests and GitHub Actions validation
-
-### 🧠 [AgenticOps — Governed AI for IT Operations](https://github.com/shahidalparvezmalik/agentic-it-operations)
-
-A governed AgenticOps proof-of-concept showing how infrastructure and ITSM-style signals can move from detection and diagnosis to risk assessment, policy-controlled recommendations, human approval, safe action simulation, and auditability.
-
-**Highlights:**
-- Event correlation and deterministic diagnosis
-- Operational risk scoring
-- Policy-controlled AI recommendations
-- Human-approval gates
-- Safe remediation simulation
-- Audit logging and management reporting
-- Executive operations dashboard
-- Governance architecture
-- Automated testing and GitHub Actions validation
-
-### 💻 [IT Asset Lifecycle Management](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
-
-A Python-based, read-only ITAM proof of concept for asset inventory assessment, lifecycle and warranty tracking, explainable risk scoring, data-quality checks, and executive reporting using synthetic data.
-
-**Highlights:**
-- Asset inventory and lifecycle validation
-- Warranty exposure and refresh-planning indicators
-- Explainable, rules-based risk scoring
-- Data-quality exception reporting
-- CSV outputs and executive summary JSON
-- Unit tests and GitHub Actions workflow
-- Governance principles and human-reviewed recommendations
-
-**Project banner:** [View the repository](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
-
-### 🤝 [AI-Assisted IT Operations](https://github.com/shahidalparvezmalik/ai-assisted-it-operations)
-
-Project in progress: a portfolio proof of concept exploring AI support for incident analysis, Service Desk workflows and operational decisions with appropriate human oversight. It is not a production deployment.
-
-**Current scope:** incident analysis support, service-desk workflow assistance, evidence-aware recommendations, human review and accountable decisions. Capabilities will be described as implemented only after they are built and verified.
+### #1 · [IT Operations Dashboard](https://github.com/shahidalparvezmalik/it-operations-dashboard)
+ITSM reporting with 1,200 synthetic incidents, management KPIs, and a Power BI implementation guide.
 
 ## Latest Thought Leadership
 
-### Project #1 — [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/)
+- [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-signals-governed-action-malik-7fkgc/) — Risk-based autonomy, human authorization, and auditability. [Project #4](https://github.com/shahidalparvezmalik/agentic-it-operations)
+- [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/) — Connecting infrastructure signals with service impact and operational decisions. [Project #3](https://github.com/shahidalparvezmalik/infrastructure-health-check)
+- [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/) — Using ITSM measures to support service-management decisions. [Project #1](https://github.com/shahidalparvezmalik/it-operations-dashboard)
 
-Exploring how ITSM data, analytics and operational KPIs can move beyond reporting toward better service-management decisions.
+## In preparation
 
-**Project:** [IT Operations Dashboard](https://github.com/shahidalparvezmalik/it-operations-dashboard)
+**IT Procurement & Vendor Performance Management** — A synthetic-data prototype prepared locally to explore procurement lifecycle visibility, supplier SLA scorecards, renewal review, and management reporting. Its public repository has not been published.
 
-**Highlights:** 1,200 synthetic ITSM incidents, SLA compliance, MTTR, FCR and reopen-rate analysis, executive dashboard, Power BI implementation guidance, Python data generation, and management-focused operational insights.
+## Portfolio approach
 
-### Project #2 — [AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-it-service-desk-from-ticket-triage-governed-automation-shahid-al-parvez-malik/)
+I use synthetic or sample data in portfolio demonstrations, make assumptions visible, and keep human accountability clear. The projects explore practical approaches; they do not claim production outcomes or measured business benefits.
 
-Exploring how AI can support ticket triage, recommendation and automation while keeping governance, accountability and appropriate human oversight in control.
+**Technologies and domains:** ITSM · IT Infrastructure · Windows Server · Active Directory · VMware · Citrix · Cisco · MikroTik · Networking · Python · PowerShell · Power BI · IT Procurement · Vendor Management
 
-**Project:** [AI-Assisted IT Service Desk](https://github.com/shahidalparvezmalik/it-service-desk-automation)
+## Connect
 
-**Highlights:** Ticket classification and enrichment, priority and SLA recommendations, knowledge retrieval, suggested resolution, human approval, risk controls, safe automation rules, auditability, synthetic ITSM data, and automated testing.
-
-### Project #3 — [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/)
-
-Exploring how infrastructure health checks can turn technical signals into operational risk, service impact and management action.
-
-**Project:** [Infrastructure Health Check & IT Operations Diagnostics](https://github.com/shahidalparvezmalik/infrastructure-health-check)
-
-**Highlights:** System, network and DNS diagnostics, Windows service health checks, health scoring, risk levels, management-oriented reporting, reproducible sample data, unit tests, and GitHub Actions validation.
-
-### Project #4 — [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://github.com/shahidalparvezmalik/agentic-it-operations)
-
-Exploring how IT Operations can progress from AI-assisted insight toward governed action through risk-based autonomy, policy controls, human authorization, controlled execution, and auditability.
-
-**Project:** [AgenticOps — Governed AI for IT Operations](https://github.com/shahidalparvezmalik/agentic-it-operations)
-
-**Highlights:** Event correlation, deterministic diagnosis, operational risk scoring, policy-controlled AI recommendations, human-approval gates, safe remediation simulation, audit logging, executive reporting, governance architecture, and automated testing.
-
-## Project #5 — IT Asset Lifecycle Management
-
-### [IT Asset Lifecycle Management](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
-
-A Python-based, read-only proof of concept for asset inventory assessment, lifecycle and warranty tracking, explainable risk scoring, data-quality checks, and executive reporting using synthetic data.
-
-**Highlights:**
-- Asset inventory and lifecycle validation
-- Warranty exposure and refresh-planning indicators
-- Explainable, rules-based risk scoring
-- Data-quality exception reporting
-- CSV outputs and executive summary JSON
-- Unit tests and GitHub Actions workflow
-- Governance principles and human-reviewed recommendations
-
-**Project banner:** [View the repository](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
-
-## Project #6 — AI-Assisted IT Operations
-
-### [AI-Assisted IT Operations: Keeping Human Judgment in the Loop](https://github.com/shahidalparvezmalik/ai-assisted-it-operations/blob/main/docs/LINKEDIN_ARTICLE.md)
-
-**Draft saved in GitHub; not yet published on LinkedIn.** The article explores incident analysis, Service Desk workflows and operational decision support while keeping evidence visible and people accountable.
-
-**Project:** [AI-Assisted IT Operations](https://github.com/shahidalparvezmalik/ai-assisted-it-operations)
-
-## Coming Next
-
-**IT Procurement & Vendor Performance Management (proposed)**  
-A possible proof-of-concept using synthetic data to explore procurement lifecycle visibility, supplier performance and SLA scorecards, contract renewal risk, and management reporting. This project has not been created yet.
-
-## Current Direction
-
-I am building a portfolio around:
-
-**ITSM Data → Analytics → Infrastructure Health → AI-Assisted Operations → AgenticOps → IT Asset Lifecycle → Procurement & Vendor Management**
-
-The objective is to improve service reliability, operational visibility, decision quality, and business outcomes through practical, governed technology.
-
-## Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/shahidalparvezmalik](https://www.linkedin.com/in/shahidalparvezmalik/)
-- **Professional Portfolio:** [shahidalparvezmalik.com](https://shahidalparvezmalik.com/)
-- **GitHub Projects:** [github.com/shahidalparvezmalik](https://github.com/shahidalparvezmalik)
-
-## Technology & Professional Interests
-
-`IT Operations` `ITSM` `IT Infrastructure` `Service Delivery` `Power BI` `Python` `PowerShell` `Windows Server` `Active Directory` `Networking` `Automation` `AI` `Cyber Resilience` `IT Procurement` `Vendor Management`
-
----
-
-> **Build practical solutions. Improve operations. Use technology responsibly.**
+[LinkedIn](https://www.linkedin.com/in/shahidalparvezmalik/) · [Professional portfolio](https://shahidalparvezmalik.com/)
