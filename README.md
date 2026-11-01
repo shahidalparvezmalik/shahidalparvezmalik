@@ -18,6 +18,9 @@ I lead and support dependable IT services, infrastructure operations, and practi
 
 Projects are listed from newest to foundational. Each is a portfolio proof of concept, not a claim of production deployment.
 
+### #7 · [IT Procurement & Vendor Performance Management](https://github.com/shahidalparvezmalik/it-procurement-vendor-management)
+A synthetic-data, deterministic rules demo for procurement lifecycle visibility, supplier scorecards, contract-renewal review, and management reporting. Human review is required; no live systems or procurement actions.
+
 ### #6 · [AI-Assisted IT Operations](https://github.com/shahidalparvezmalik/ai-assisted-it-operations)
 A review-only incident-triage demo using seven synthetic cases. Its transparent rules suggest priorities, flag missing context, and generate reports; it is **not an AI model**, connects to no live systems, and executes no actions.
 
@@ -38,13 +41,10 @@ ITSM reporting with 1,200 synthetic incidents, management KPIs, and a Power BI i
 
 ## Latest Thought Leadership
 
+- [IT Procurement & Vendor Performance Management](https://www.linkedin.com/pulse/procurement-vendor-performance-management-shahid-al-parvez-malik-0uddc/) — Supplier SLA scorecards, renewal review, and human-governed procurement decisions. [Project #7](https://github.com/shahidalparvezmalik/it-procurement-vendor-management) (1 November 2026)
 - [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-signals-governed-action-malik-7fkgc/) — Risk-based autonomy, human authorization, and auditability. [Project #4](https://github.com/shahidalparvezmalik/agentic-it-operations)
 - [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/) — Connecting infrastructure signals with service impact and operational decisions. [Project #3](https://github.com/shahidalparvezmalik/infrastructure-health-check)
 - [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/) — Using ITSM measures to support service-management decisions. [Project #1](https://github.com/shahidalparvezmalik/it-operations-dashboard)
-
-## In preparation
-
-**IT Procurement & Vendor Performance Management** — A synthetic-data prototype prepared locally to explore procurement lifecycle visibility, supplier SLA scorecards, renewal review, and management reporting. Its public repository has not been published.
 
 ## Portfolio approach
 
