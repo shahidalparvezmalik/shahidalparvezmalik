@@ -18,6 +18,9 @@ I lead and support dependable IT services, infrastructure operations, and practi
 
 Projects are listed from newest to foundational. Each is a portfolio proof of concept, not a claim of production deployment.
 
+### #8 · [IT Service Continuity & Recovery Readiness](https://github.com/shahidalparvezmalik/it-service-continuity-planner)
+A fictional-data, deterministic review tool that flags missing ownership, dependency confirmation, backup evidence, or exercise dates. It does not verify recoverability or execute actions; human review is required.
+
 ### #7 · [IT Procurement & Vendor Performance Management](https://github.com/shahidalparvezmalik/it-procurement-vendor-management)
 A synthetic-data, deterministic rules demo for procurement lifecycle visibility, supplier scorecards, contract-renewal review, and management reporting. Human review is required; no live systems or procurement actions.
 
