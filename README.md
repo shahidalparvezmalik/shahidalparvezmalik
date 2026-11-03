@@ -49,6 +49,16 @@ ITSM reporting with 1,200 synthetic incidents, management KPIs, and a Power BI i
 - [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/) — Connecting infrastructure signals with service impact and operational decisions. [Project #3](https://github.com/shahidalparvezmalik/infrastructure-health-check)
 - [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/) — Using ITSM measures to support service-management decisions. [Project #1](https://github.com/shahidalparvezmalik/it-operations-dashboard)
 
+## Coming Soon
+
+### Proposed #9 · IT Third-Party Technology Dependency & Resilience Mapping
+A proposed synthetic-data project to map critical services to technology providers and dependencies, then flag shared-provider concentration and single points of failure for human review. It would complement #8's service recovery-readiness checklist and #7's supplier-performance demo without claiming regulatory compliance. **Not built; no repository yet.**
+
+Why this direction: the Business Continuity Institute's 28 October 2026 resource focuses on mapping critical technology dependencies, hidden supplier risks, concentration, and single points of failure. The Central Bank of Ireland lists ICT third-party risk and resilience testing among DORA topics for financial entities in scope.
+
+- [BCI: Managing Critical Third-Party Technology Dependencies](https://www.thebci.org/resource/managing-critical-third-party-technology-dependencies.html)
+- [Central Bank of Ireland: Digital Operational Resilience Act (DORA)](https://www.centralbank.ie/regulation/digital-operational-resilience-act-dora)
+
 ## Portfolio approach
 
 I use synthetic or sample data in portfolio demonstrations, make assumptions visible, and keep human accountability clear. The projects explore practical approaches; they do not claim production outcomes or measured business benefits.
