@@ -18,6 +18,9 @@ I lead and support dependable IT services, infrastructure operations, and practi
 
 Projects are listed from newest to foundational. Each is a portfolio proof of concept, not a claim of production deployment.
 
+### #10 · [IT Change Impact & Readiness Review](https://github.com/shahidalparvezmalik/it-change-impact-readiness)
+A synthetic-data, deterministic Python CLI that flags missing change evidence, overlapping windows on shared services or confirmed dependencies, and supplied blackout conflicts. Every result requires human review; it does not approve, schedule, or deploy changes.
+
 ### #9 · [IT Third-Party Technology Dependency & Resilience Mapping](https://github.com/shahidalparvezmalik/it-third-party-dependency-resilience)
 A synthetic-data, deterministic Python demo mapping fictional services to technology providers and flagging shared providers and unconfirmed dependencies for human review. It does not assess actual risk or compliance.
 
@@ -51,6 +54,12 @@ ITSM reporting with 1,200 synthetic incidents, management KPIs, and a Power BI i
 - [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-signals-governed-action-malik-7fkgc/) — Risk-based autonomy, human authorization, and auditability. [Project #4](https://github.com/shahidalparvezmalik/agentic-it-operations)
 - [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/) — Connecting infrastructure signals with service impact and operational decisions. [Project #3](https://github.com/shahidalparvezmalik/infrastructure-health-check)
 - [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/) — Using ITSM measures to support service-management decisions. [Project #1](https://github.com/shahidalparvezmalik/it-operations-dashboard)
+
+## Coming Soon
+
+### Proposed #11 · IT Knowledge & Runbook Readiness Review
+
+A proposed synthetic-data, rules-based review of runbook ownership, service mapping, review recency, and operational completeness. This follow-on is not built; no repository or article is available. The rationale is current: [PeopleCert's 2026 article on Knowledge Management and agentic AI](https://atv.peoplecert.org/km-in-the-age-of-agentic-ai/) stresses the need for current, owned knowledge, while [Google's SRE Workbook](https://sre.google/workbook/incident-response/) recommends regularly reviewing incident plans and playbooks. The proposed scope is documentation lifecycle governance, not knowledge retrieval or autonomous action.
 
 ## Portfolio approach
 
