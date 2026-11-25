@@ -18,6 +18,9 @@ I lead and support dependable IT services, infrastructure operations, and practi
 
 Projects are listed from newest to foundational. Each is a portfolio proof of concept, not a claim of production deployment.
 
+### #12 · [OpsAgent SafetyBench](https://github.com/shahidalparvezmalik/opsagent-safetybench)
+An experimental, synthetic-data, deterministic Python CLI that checks supplied response text against explicit rubrics for evidence, approval, escalation, and specified forbidden phrases. It does not call an AI model or connect to live systems; passing checks are not semantic safety certification and require human review.
+
 ### #11 · [IT Knowledge & Runbook Readiness Review](https://github.com/shahidalparvezmalik/it-knowledge-runbook-readiness)
 A synthetic-data, deterministic Python CLI that flags missing ownership and operational details, unconfirmed service mappings, and overdue reviews in knowledge records. It produces reason-coded reports for human review; it does not validate technical procedures or certify readiness.
 
@@ -57,6 +60,11 @@ ITSM reporting with 1,200 synthetic incidents, management KPIs, and a Power BI i
 - [From AIOps to AgenticOps: Turning IT Signals into Governed Action](https://www.linkedin.com/pulse/from-aiops-agenticops-turning-signals-governed-action-malik-7fkgc/) — Risk-based autonomy, human authorization, and auditability. [Project #4](https://github.com/shahidalparvezmalik/agentic-it-operations)
 - [Infrastructure Health Checks: Turning Technical Signals into Operational Risk](https://www.linkedin.com/pulse/infrastructure-health-checks-turning-technical-signals-malik-d5dgc/) — Connecting infrastructure signals with service impact and operational decisions. [Project #3](https://github.com/shahidalparvezmalik/infrastructure-health-check)
 - [From ITSM Data to Better IT Operations Decisions](https://www.linkedin.com/pulse/from-itsm-data-better-operations-decisions-shahid-al-parvez-malik-7bbcc/) — Using ITSM measures to support service-management decisions. [Project #1](https://github.com/shahidalparvezmalik/it-operations-dashboard)
+
+## Coming Soon
+
+### Proposed #13 · SaaS License & Access Hygiene Review (not built)
+A proposed synthetic-data review of sanitized SaaS exports for potentially unused seats, stale access, ownership gaps, and renewal-review items; any findings would be for human verification, with no live tenant connection or automated account changes. This direction reflects the FinOps Foundation's 2026 survey: 90% of respondents manage or plan to manage SaaS and 64% manage licensing. Microsoft's access-review guidance describes recurring reviews to verify who should retain access to applications and resources. [State of FinOps 2026](https://data.finops.org/) · [Microsoft Entra access reviews](https://learn.microsoft.com/en-us/entra/id-governance/deploy-access-reviews)
 
 ## Portfolio approach
 
